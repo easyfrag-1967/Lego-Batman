@@ -209,4 +209,4 @@ LEGO Batman is provided as a full free version with all features and updates inc
 Download LEGO Batman today and embark on your LEGO adventure in Gotham City!
 
 ---
-**Last updated:** 2026-10-19 00:39:33 UTC
+**Last updated:** 2026-10-19 05:33:44 UTC
